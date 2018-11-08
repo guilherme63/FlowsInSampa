@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'knewave';
+    src: url('fonts/knewave.eot');
+    src: url('fonts/knewave.eot') format('embedded-opentype'),
+         url('fonts/knewave.woff2') format('woff2'),
+         url('fonts/knewave.woff') format('woff'),
+         url('fonts/knewave.ttf') format('truetype'),
+         url('fonts/knewave.svg#knewave') format('svg');
+}
